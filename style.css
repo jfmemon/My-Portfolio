@@ -1,0 +1,63 @@
+body{
+    font-family: 'Baloo 2', cursive;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.color-text{
+    color: orange;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 7%;
+    padding-top: 5%;
+}
+
+.half-width img{
+    width: 82%;
+    padding-top: 2%;
+    padding-left: 2%;
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(240, 74, 74),rgb(221, 175, 175));
+    padding: 10px 40px;
+    color: white;
+    border-radius: 7px;
+    font-size: 18px;
+    font-weight:500;
+}
+
+.first-portion{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+
+.second-portion{
+    padding-top: 5%;
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
+
+.second-half-width img{
+    width: 90%;
+    padding-top: 2%;
+    padding-left: 12%;
+}
+
+.second-half-width{
+    width: 50%;
+    padding-top: 15%;
+    padding-left: 3%;
+}
+
