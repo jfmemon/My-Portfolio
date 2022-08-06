@@ -48,6 +48,7 @@ h1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    padding-bottom: 5%;
 }
 
 .second-half-width img{
@@ -63,3 +64,47 @@ h1{
     padding-right: 10%;
 }
 
+.third-portion{
+    padding-bottom: 8%;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.last-container{
+    display: flex;
+}
+
+.third-half{
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 10px 10px 40px grey;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    border-left: 6px solid crimson;
+}
+
+.third-half-last{
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 10px 10px 40px grey;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    border-left: 6px solid rgb(80, 20, 220);
+}
+
+.experience{
+    padding-left: 5%;
+}
+
+.second-text-color{
+    color: orange;
+}
+
+footer p{
+    text-align: center;
+}
